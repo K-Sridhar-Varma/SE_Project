@@ -1,0 +1,7 @@
+Event Management Made Easy 
+
+Team Members 
+
+-K.SRIDHAR VARMA (422165)
+-A.MOHAN SATYA DEV(422106)
+-K.MOHAN SAI(422166)
